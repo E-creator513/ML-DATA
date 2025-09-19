@@ -2,6 +2,7 @@
 
 Небольшой набор отзывов TripAdvisor о гостиницах и полный рабочий процесс для **ручной аннотации, проверки и анализа**. Цель — создать размеченные данные для **анализa тональности** и **распознавания сущностей** в отзывах о гостиницах.
 
+
 ---
 
 ## **1. Набор данных**
@@ -64,3 +65,5 @@ sentiment_annotator2 = ['Positive','Negative','Positive']
 
 kappa = cohen_kappa_score(sentiment_annotator1, sentiment_annotator2)
 print("Cohen's Kappa:", kappa)
+```
+<img width="205" height="211" alt="image" src="https://github.com/user-attachments/assets/38409702-c00c-48cc-80fb-8a686aeef319" />
