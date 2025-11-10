@@ -27,4 +27,5 @@
 - Выявление отмывания денег или деятельности с высоким уровнем риска.
 - too long to red
 - dont ask the bodss\peeka boo
-- following the delistions 
+- following the delistions
+- shoult the great move start pr what or what 
