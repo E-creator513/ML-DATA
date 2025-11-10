@@ -28,4 +28,4 @@
 - too long to red
 - dont ask the bodss\peeka boo
 - following the delisti
-- shoult the great move s
+- sh
