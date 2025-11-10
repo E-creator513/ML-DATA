@@ -28,4 +28,4 @@
 - too long to red
 - dont ask the bodss\peeka boo
 - following the delistions
-- shoult the great move start pr what or what 
+- shoult the great move start pr what or wha
